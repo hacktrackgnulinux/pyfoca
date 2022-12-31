@@ -1,0 +1,4 @@
+
+chmod -v 775 pyfoca.py
+ln -sv /pentest/01/pyfoca/pyfoca.py /usr/bin/pyfoca
+ln -sv /pentest/01/pyfoca/pyfoca.py /usr/bin/pyfoca.py
